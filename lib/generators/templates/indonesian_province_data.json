@@ -1,5 +1,5 @@
 [{
-	"name": "Nangroe Aceh Darussalam",
+	"name": "DI Aceh",
 	"cities": [
 		{ "name": "Kabupaten Aceh Barat" },
 		{ "name": "Kabupaten Aceh Barat Daya" }, 
@@ -177,7 +177,7 @@
 	]
 },
 {
-	"name": "Kepulauan Bangka Belitung",
+	"name": "Kep Bangka Belitung",
 	"cities": [
 		{ "name": "Kabupaten Bangka" },
 		{ "name": "Kabupaten Bangka Barat" },
@@ -189,7 +189,7 @@
 	]
 },
 {
-	"name": "Kepulauan Riau",
+	"name": "Kep Riau",
 	"cities": [
 		{ "name": "Kabupaten Bintan" },
 		{ "name": "Kabupaten Karimun" },
@@ -339,7 +339,7 @@
 	]
 },
 {
-	"name": "Daerah Istimewa Yogyakarta",
+	"name": "DI Yogyakarta",
 	"cities": [
 		{ "name": "Kabupaten Bantul" },
 		{ "name": "Kabupaten Gunung Kidul" },
